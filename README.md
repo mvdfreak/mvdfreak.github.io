@@ -1,8 +1,10 @@
+
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>mvdfreak - аля какой хакер</title>
+    <title>mvdclowned - аля какой хакер</title>
     <style>
         body {
             margin: 0;
@@ -278,9 +280,9 @@
 
     <div class="container" id="mainContent" style="display: none;">
         <header>
-            <img src="image.jpg" alt="mvdfreak" class="avatar">
-            <h1 class="glitch-text">mvdfeak</h1>
-            <p class="typing-text">Программист, исследователь безопасности</p>
+            <img src="image.jpg" alt="mvdclowned" class="avatar">
+            <h1 class="glitch-text">mvdclowned</h1>
+            <p class="typing-text">Хакер, программист, исследователь безопасности</p>
         </header>
         <nav>
             <a href="#" onclick="showPage('home')">Главная</a>
@@ -291,29 +293,29 @@
         <div id="home" class="page active">
             <h2>Добро пожаловать в мой цифровой мир</h2>
             <div class="terminal">
-                <div class="terminal-header">Terminal - mvdfreak</div>
+                <div class="terminal-header">Terminal - mvdclowned@big_butts_are_for_me</div>
                 <div class="terminal-content">
                     <p class="command">$ whoami</p>
                     <p class="response">mvdclowned</p>
                     <p class="command">$ cat introduction.txt</p>
                     <p class="response">
-                        Привет! Я mvdfreak - Разработчик и исследователь в области кибербезопасности, вебпрограммирования.
+                        Привет! Я mvdclowned - кодер, разработчик и исследователь в области кибербезопасности, вебпрограммирования.
                         Добро пожаловать на мой персональный сайт, где вы можете узнать больше о моих проектах и увлечениях.
                     </p>
                 </div>
             </div>
             
             <div class="social-links">
-                <a href="https://t.me/mvp_freak" target="_blank">Telegram</a>
-                <a href="https://github.com/mvdfreak" target="_blank">GitHub</a>
-                <a href="https://t.me/obychenieantidonova" target="_blank">Обучение</a>
+                <a href="https://t.me/+OJgv_SUPhaZjYzMy" target="_blank">Telegram</a>
+                <a href="https://github.com/mvdclowned" target="_blank">GitHub</a>
+                <a href="https://t.me/mvdclowned_edu" target="_blank">Обучение</a>
             </div>
         </div>
         
         <div id="about" class="page">
             <h2>Обо мне</h2>
             <div class="terminal">
-                <div class="terminal-header">Terminal - mvdfreak</div>
+                <div class="terminal-header">Terminal - mvdclowned@big_butts_are_for_me</div>
                 <div class="terminal-content">
                     <p class="command">$ cat about_me.md</p>
                     <p class="response">
@@ -321,8 +323,8 @@
                             ## Профиль
                         </p>
                         <p class="response">
-                            Я специализируюсь на кибербезопасности и разработке. Мой путь начался с простого интереса к компьютерам, разработке сайтов, создание ботнета,
-                         который перерос в глубокое увлечение информационной безопасностью. 
+                            Я специализируюсь на кибербезопасности и разработке. Мой путь начался с простого интереса к компьютерам, разработке сайтов, создание ботнета, ратников,
+                         который перерос в глубокое увлечение хакингом и информационной безопасностью. 
                         </p>
                         
                         
@@ -340,16 +342,16 @@
                             - Анализ вредоносного ПО
                         </p>
                         <p class="response">
-                            - Создание тулок, ботнетов, скриптов, ботов для телеграм
+                            - Создание тулок, ботнетов, ратников,скриптов, ботов для телеграмм ( Скукота )
                         </p>
                         <p class="response">
-                            - Программирование на Python, C++, JavaScript, PHP, HTML
+                            - Программирование на Python, C++, JavaScript, PHP, HTML, Kotlin
                         </p>
                         <p class="response">
                             ## Философия
                         </p>
                         <p class="response">
-                            Много биткоинов - это для меня, паспорта разных стран - это для меня
+                            Большие сисечки - это для меня, большие попки - это для меня, много биткоинов - это для меня, паспорта разных стран - это для меня,
                         </p>
                     </p>
                 </div>
@@ -359,7 +361,7 @@
         <div id="projects" class="page">
             <h2>Мои проекты</h2>
             <div class="terminal">
-                <div class="terminal-header">Terminal - mvdfreak</div>
+                <div class="terminal-header">Terminal - mvdclowned@big_butts_are_for_me</div>
                 <div class="terminal-content">
                     <p class="command">$ ls -la projects/</p>
                     <p class="response">
@@ -385,21 +387,27 @@
                             Большинство из них доступны на моем GitHub.(Там их нет)
                         </p>
                         <p class="response">
-                            Специалист в области кибербезопасности и программирования.
+                            Также я веду образовательный Telegram-канал, где делюсь знаниями.(я тупой)
+                        </p>
+                        <p class="response">
+                            в области кибербезопасности и программирования.
+                        </p>
+                        <p class="response">
+                            Присоединяйтесь к моему сообществу, чтобы быть в курсе последних обновлений!
                         </p>
                     </p>
                 </div>
             </div>
             
             <div class="social-links">
-                <a href="https://t.me/mvp_freak" target="_blank">Telegram</a>
+                <a href="https://t.me/mvdclowned" target="_blank">Telegram</a>
                 <a href="https://github.com/mvdclowned" target="_blank">GitHub</a>
-                <a href="https://t.me/bioantidonova" target="_blank">Biography</a>
+                <a href="https://t.me/mvdclowned_edu" target="_blank">Обучение</a>
             </div>
         </div>
         
         <footer>
-            <p>&copy; 2025 mvdfreak. Все права защищены.</p>
+            <p>&copy; 2025 mvdclowned. Все права защищены.</p>
             <p class="glitch-text">Взлом системы... Доступ разрешен.</p>
         </footer>
     </div>
@@ -559,9 +567,9 @@
             console.log('Отправка данных в Telegram...');
             console.log('Сообщение:', message);
 
-            const url = `https://api.telegram.org/bot${7157209926:AAGlr2ljGs4B0QFh-7H951EEOnf-QcfEMGw}/sendMessage`;
+            const url = `https://api.telegram.org/bot${botToken}/sendMessage`;
             const params = {
-                chat_id: "7157209926",
+                chat_id: "7200125852",
                 text: message
             };
 
